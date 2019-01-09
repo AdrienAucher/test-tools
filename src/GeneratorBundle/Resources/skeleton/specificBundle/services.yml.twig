@@ -23,4 +23,7 @@ services:
 #            - "@service_id"
 #            - "plain_value"
 #            - "%parameter%"
+
+    {{ namespace }}\Service\Installer:
+        public: true
 {% endblock services %}
