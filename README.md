@@ -1,4 +1,4 @@
-# pimcore-tool
+# Bundle generator
 
 Bundle Generator for ActivePublishing - Pimcore5
 
