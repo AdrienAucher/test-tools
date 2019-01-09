@@ -1,6 +1,6 @@
 # pimcore-tool
 
-External tool for Pimcore 5
+Bundle Generator for ActivePublishing - Pimcore5
 
 ### How to get it
 
