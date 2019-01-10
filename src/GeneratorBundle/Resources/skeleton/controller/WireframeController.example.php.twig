@@ -12,7 +12,7 @@
 
 namespace {{ bundle }}\Controller;
 
-// This file is an example, don't forget to modify it.
+// Class is commented in order to avoid errors during bundle installation, don't forget to remove the comments around the class statement and modify it.
 
 {% block use_statements %}
 use ActiveWireframeBundle\Lib\Controller\WireframeController;
@@ -21,6 +21,7 @@ use Pimcore\Http\Request\Resolver\ViewModelResolver;
 {% endblock use_statements %}
 
 {% block class_definition %}
+/*
 class WireframeExampleController extends WireframeController
 {% endblock class_definition %}
 {
@@ -35,3 +36,4 @@ class WireframeExampleController extends WireframeController
     }
 {% endblock class_body %}
 }
+*/
