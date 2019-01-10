@@ -5,7 +5,7 @@ Bundle Generator for ActivePublishing - Pimcore5
 ### How to get it
 
 ```
-composer require adrienaucher/bundle-generator:dev-master
+composer require activepublishing/bundle-generator:1.0.0
 ```
 
 ### Don't forget to enable it
